@@ -1,7 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7900&lines=Welcome+to+my+Profile..)](https://github.com/AAJ371)
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
-
-##
 
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
