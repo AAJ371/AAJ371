@@ -6,4 +6,4 @@
  </div>
  
   
-<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
+<a href = "https://github.com/AAJ371"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
